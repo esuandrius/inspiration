@@ -1,2 +1,2 @@
 # githubtest
-simple website, created using CSS and HTML
+simple Portfolio website, created using CSS and HTML
